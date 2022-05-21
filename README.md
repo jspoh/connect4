@@ -1,4 +1,4 @@
 # connect4
 Connect 4 game I'm making to practice the minimax algorithm
 
-Game uncompleted. Will be working on it again once I book out from camp :")
+Can't really figure out what is wrong with the minimax algorithm currently.. not really sure why it's returning Infinity
