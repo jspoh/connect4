@@ -1,4 +1,4 @@
-# connect4
+# Connect 4
 
 <b>
 Click <a href="../projects/games/connect4/c4.html" class="hlink">here</a> to play the game in your browser! <br> Available on both desktop and mobile!
