@@ -1,7 +1,7 @@
 # Connect 4
 
 <b>
-Click <a href="jspoh.github.io/projects/games/connect4/c4.html" class="hlink">here</a> to play the game in your browser! <br> Available on both desktop and mobile!
+Click <a href="https://jspoh.github.io/projects/games/connect4/c4.html" class="hlink">here</a> to play the game in your browser! <br> Available on both desktop and mobile!
 </b>
 <br> <br>
 <hr> <br>
